@@ -73,10 +73,17 @@
       "Help me pick our theme! The options are Japan, Space, City, Tropical, Underwater and Default. The theme with the most votes will be selected. Let me know your choice."
     ]
   },
-
   "Sh8rkByte": {
+    "Commands": [
+      "bring %",
+      "speed %",
+      "disablebarrier",
+      "setcookingquest Dango",
+      "enablebarrier",
+      "pm %Host Please rank . Thanks!"
+    ],
     "Stage 1": [
-      "Please position yourself shoulder to shoulder along the white line and face me directly. Kindly refrain from moving around.",
+      "xxxx",
       "Greetings! I’m Sh8rkByte and I will be your Trainer for this session. 🦈",
       "Today I will be teaching you the basics of being a Low Rank here at Kohaú. If you happen to have any questions throughout the training, please ask.",
       "You must get 2/3 points to pass. If you don’t have that many by the end of the training, you may always attend another session.",
