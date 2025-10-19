@@ -1,6 +1,6 @@
 {
   "mysclf": {
-    "S1": [
+    "Stage 1": [
       "Please position yourself shoulder to shoulder along the white line and face me directly. Kindly refrain from moving around.",
       "Greetings! I’m mysclf and I will be your Trainer for this session.",
       "Today I will be teaching you the basics of being a Low Rank here at Kohaú. If you happen to have any questions throughout the training, please ask.",
@@ -15,7 +15,7 @@
       "Even if you enter alone, you need the gamepass or a customer who owns it to access those special areas. Otherwise, you’ll be demoted.",
       "I’ll now be asking everyone to use the greeting UI as of now. Open it in the top right and click the “Welcome” script. Please state the welcome greeting only."
     ],
-    "S2": [
+    "Stage 2": [
       "Tell your customer that the menu is located in their inventory. You can give them your secret menu by interacting with them and clicking “Hand To.”",
       "Hold out your secret recipe menu tool and hand it to your customer so they can order exclusive items.",
       "You can get secret recipes by fishing, visiting the AFK break room behind the counter, or completing chef benefits. Earn XP from serving, cooking, and cleaning spills to unlock prizes.",
@@ -35,12 +35,12 @@
       "You can set up tipping in your settings panel. Tipping is optional, don’t beg for tips.",
       "Is everyone ready for the order portion?"
     ],
-    "S3": [
+    "Stage 3": [
       "Once you finish the order, come back to the white line. Do NOT hand me the order if I did not ask for it.",
       "If you forget what item to make, it will be listed on the right side of the screen.",
       "Please make me Dango. You may now go find a grill and make the order. Wait patiently for your turn if all the grills are being used."
     ],
-    "S4": [
+    "Stage 4": [
       "Great job everyone! We will now be doing the last portion of the training, the quiz. Any questions before we do so?",
       "First, I will be giving you some information on disruptive players. If someone is trolling or breaking rules at the restaurant, give them a verbal reminder.",
       "If they fail to stop, give them a warning using the warning command by typing !warn [user] [reason]. Change “user” and “reason” to be the username of the person and reason for warning.",
@@ -53,7 +53,7 @@
       "I have PMed you a question. The PM will appear in the bottom right of your screen. Please answer it. If you didn’t get anything or have any issues, please let me know.",
       "The correct answer is by using the “Report” app or using the warn command, which is “!warn (user) (reason)”. If you didn’t receive a point, it means you got the question wrong."
     ],
-    "S5": [
+    "Stage 5": [
       "Unfortunately, you did not pass this training session as you did not meet the required 2 out of 3 points.",
       "Please don’t worry, you're welcome to attend another session at any time to try again. We appreciate your effort and look forward to seeing you in the future trainings!",
       "Congratulations, you have passed today’s session! Do not leave as I will be explaining additional information. Leaving will result in not being ranked.",
