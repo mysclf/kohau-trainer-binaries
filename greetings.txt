@@ -1,1 +1,17 @@
-
+{
+  "mysclf": {
+    "Stage 1": [
+      "Welcome to Kohaú training!",
+      "Please stand shoulder to shoulder along the white line."
+    ],
+    "Stage 2": [
+      "Now we’ll cover taking orders.",
+      "Keep calm and serve professionally!"
+    ]
+  },
+  "User2": {
+    "Stage 1": [
+      "Hi, I'm User2 — let's begin the session!"
+    ]
+  }
+}
