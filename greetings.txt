@@ -135,14 +135,6 @@
       "I have PMed you a question. The PM will appear in the bottom right of your screen. Please answer it. If you didn’t get anything or have any issues, please let me know.",
       "Remember to NOT discuss the quiz out loud."
     ],
-    "Possible questions": [
-      "What is one way you can warn someone?",
-      "The correct answer is by using the “Report” app or using the warn command, which is “!warn (user) (reason)”. If you didn’t receive a point, it means you got the question wrong.",
-      "If you see someone trolling or breaking rules at the restaurant, what should you do before you issue them a warning?",
-      "The correct answer is by giving them a verbal reminder. If you didn’t receive a point, it means you got the question wrong.",
-      "After you have given a second warning to a disruptive player and there is no MR/HR in your server, what is one way you should deal with the situation?",
-      "The correct answer is by using the mod call feature. If you didn’t receive a point, it means you got the question wrong."
-    ],
     "Stage 5": [
       "Unfortunately, you did not pass this training session as you did not meet the required 2 out of 3 points.",
       "Please don’t worry, you're welcome to attend another session at any time to try again. We appreciate your effort and look forward to seeing you in the future trainings!",
@@ -160,10 +152,16 @@
       "Once my message fades, everyone say #",
       "If you ever have any questions, please don’t hesitate to ask an MR/HR. You have been ranked and you’re dismissed!"
     ],
-    "PTS": [
+    "Extras": [
       "🦈 | Hey there! Thank you for using our “!PTS” system. What would you like to ask?",
       "❓ | Are there any more questions remaining?",
-      "💙 | Alright, have an awesome day and good luck on the training!"
+      "💙 | Alright, have an awesome day and good luck on the training!",
+      "What is one way you can warn someone?",
+      "The correct answer is by using the “Report” app or using the warn command, which is “!warn (user) (reason)”. If you didn’t receive a point, it means you got the question wrong.",
+      "If you see someone trolling or breaking rules at the restaurant, what should you do before you issue them a warning?",
+      "The correct answer is by giving them a verbal reminder. If you didn’t receive a point, it means you got the question wrong.",
+      "After you have given a second warning to a disruptive player and there is no MR/HR in your server, what is one way you should deal with the situation?",
+      "The correct answer is by using the mod call feature. If you didn’t receive a point, it means you got the question wrong."
     ]
   }
 }
