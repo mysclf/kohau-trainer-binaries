@@ -16,7 +16,7 @@
       "I’ll now be asking everyone to use the greeting UI as of now. Open it in the top right and click the “Welcome” script. Please state the welcome greeting only."
     ],
     "Stage 2": [
-      "xxxxxxxx",
+      "Tell your customer that the menu is located in their inventory. You can give them your secret menu by interacting with them and clicking “Hand To.”",
       "Hold out your secret recipe menu tool and hand it to your customer so they can order exclusive items.",
       "You can get secret recipes by fishing, visiting the AFK break room behind the counter, or completing chef benefits. Earn XP from serving, cooking, and cleaning spills to unlock prizes.",
       "When the customer is ready, ask for their order. The course order is: drinks, appetizers, entrees, and desserts. There is no food limit, but keep it reasonable.",
