@@ -25,7 +25,7 @@
       "To use any fridge, press ‘E’ or tap the button that comes up on mobile. Select the drink they ordered. After, complete the minigame and hand the customer the drink.",
       "Grab all of the fridge items for the whole party and take it back to the table. Hand the item by interacting with the customer and clicking “Hand To”.",
       "When your customer orders a food, click the button on your hibachi grill. Search and select the food they would like.",
-      "After that, you will ignite the grill and pick a trick. Tricks can be unlocked for free, with Sushi Rolls, chef benefits, or by earning an in-game title.",
+      "After that, you will start up the grill and pick a trick. Tricks can be unlocked for free, with Sushi Rolls, chef benefits, or by earning an in-game title.",
       "The cooking system will guide you through some minigames. Each minigame will be described in detail at the bottom of your screen.",
       "As you cook, animations will play of you creating the food and then the tool will appear in your inventory. Interact with your customer and click “Hand To”.",
       "If you’re in the takeout area, you must visit the takeout boxing counter and put the food in a box before you hand the item.",
